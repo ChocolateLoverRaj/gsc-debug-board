@@ -31,7 +31,7 @@ This cable was made using [this guide](https://web.archive.org/web/2023102818455
 Uses 22k and 45.3k resistors. Works with USB-A male to USB-C male cables. Does not work with USB-C male to USB-C male cables.
 
 ### v4.1.0
-[TODO: Link to buy]
+*Upcoming Product*
 
 [Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
 
