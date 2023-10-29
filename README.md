@@ -35,4 +35,4 @@ Uses 22k and 45.3k resistors. Works with USB-A male to USB-C male cables. Does n
 
 [Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
 
-Uses 22k and 45.3k resistors. Works with both USB-A male to USB-C male cables and USB-C male to USB-C male cables.
+Uses 22k and 45.3k resistors. Works with both USB-A male to USB-C male cables and USB-C male to USB-C male cables. Shield ground is connected between both USB-C components.
