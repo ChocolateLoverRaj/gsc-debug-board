@@ -24,14 +24,14 @@ This item (previously sold by [SparkFun which they called SuzyQable](https://web
 This cable was made using [this guide](https://web.archive.org/web/20231028184553/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/474419984dd023a4c8a51381991b3a8c7a20772c/docs/ccd.md#SuzyQ-SuzyQable). It uses 22k and 56k resistors. It is a home made cable.
 
 ### v4.0.1
-[Link to buy](https://www.ebay.com/itm/335088802284)
+[Link to buy (out of Stock, has been replaced by v4.1.0](https://www.ebay.com/itm/335088802284)
 
 [Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
 
 Uses 22k and 45.3k resistors. Works with USB-A male to USB-C male cables. Does not work with USB-C male to USB-C male cables.
 
 ### v4.1.0
-*Upcoming Product*
+[Link to buy](https://www.ebay.com/itm/335285265136)
 
 [Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
 
