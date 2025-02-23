@@ -3,7 +3,7 @@ Information about my GSC Debug Cables / Boards
 
 
 > [!IMPORTANT]  
-> Attention buyers from outside the US, especially Canada: Depending on the country, you can save a significant amount of money on shipping if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1.35). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
+> Attention buyers from outside the US, especially Canada: Depending on the country, you can save a significant amount of money on shipping if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
 
 ## What does it do?
 This item (previously sold by [SparkFun which they called SuzyQable](https://web.archive.org/web/20231028183709/https://www.sparkfun.com/products/retired/14746)) is for Chromebooks which support [CCD (Closed Case Debugging)](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md). This item lets you communicate with the Google Security Chip inside Chromebooks, and is mainly used for disabling firmware write protect and unbricking.
