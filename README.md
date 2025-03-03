@@ -41,5 +41,24 @@ Uses 22k and 45.3k resistors. Works with USB-A male to USB-C male cables. Does n
 
 Uses 22k and 45.3k resistors. Works with both USB-A male to USB-C male cables and USB-C male to USB-C male cables. Shield ground is connected between both USB-C components.
 
+## Pricing for buying directly
+
+| |Buying outside of eBay|Ships from Pleasanton, CA 94566|See https://www.pirateship.com/rates for exact rates| | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|Destination|International| | |Canada| |Within US|Cost varies by address, price is for 60007 (Chicago) See https://www.pirateship.com/rates for exact rates| |
+|Shipping Service|Pirate Ship Simple Export Rate|UPS|Envelope|Pirate Ship Simple Export Rate|UPS® Standard|USPS Ground Advantage|USPS Priority Mail|FedEX|
+|Time (estimate)|1-3+ weeks|2 to 5 business days|~2 weeks|1-3+ weeks|1 week|Up to 5 days not including Sundays|~2 Business Days|~2 Business Days|
+| | | | | | | | | |
+|Cost / board|$3.61|$3.61|$3.61|$3.61|$3.61|$3.61|$3.61|$3.61|
+|Packaging Type|Compostable bubble mailer with compostable shipping label|Compostable bubble mailer with compostable shipping label|Envelope|Compostable bubble mailer with compostable shipping label|Compostable bubble mailer with compostable shipping label|Compostable bubble mailer with compostable shipping label|Compostable bubble mailer with compostable shipping label|Compostable bubble mailer with compostable shipping label|
+|Packaging Cost|$0.68|$0.68|$0.13|$0.68|$0.68|$0.68|$0.68|$0.68|
+|Handling Cost|$2.00|$3.00|$6.00|$2.00|$3.00|$1.70|$1.70|$4.50|
+|Shipping|$13.99|$21.45|$2.00|$10.99|$16.64|$4.14| | |
+|Shipping insurance|$1.00|$0.00|No insurance! At your own risk|$1.00|$0.00|0| | |
+|Total|$21.28|$28.74|$11.74|$18.28|$23.93|$9.93| | |
+| | | | | | | | | |
+|Cost / cable|$0.84| | | | | | | |
+
+
 ## Contact
 Email: paranjperajas@gmail.com
