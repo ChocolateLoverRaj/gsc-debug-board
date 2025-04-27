@@ -1,6 +1,8 @@
 # GSC Debug Cable / Board
 Information about my GSC Debug Cables / Boards
 
+## Looking for someone to sell this in Europe
+There are a lot of international buyers located in europe who either buy from eBay or contact me to buy it directly from me. Either way, shipping is slow and expensive. It would be really good for them if someone could buy this PCB directly from a manufacturer in bulk and resell it in Europe similar to what I do in the US. Contact me if you would like to do this.
 
 > [!IMPORTANT]  
 > Attention buyers from outside the US, especially Canada: Depending on the country, you can save a significant amount of money on shipping if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
