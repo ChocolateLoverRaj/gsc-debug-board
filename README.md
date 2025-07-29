@@ -1,11 +1,11 @@
 # GSC Debug Cable / Board
 Information about my GSC Debug Cables / Boards
 
-## Looking for someone to sell this in Europe
-There are a lot of international buyers located in europe who either buy from eBay or contact me to buy it directly from me. Either way, shipping is slow and expensive. It would be really good for them if someone could buy this PCB directly from a manufacturer in bulk and resell it in Europe similar to what I do in the US. Contact me if you would like to do this.
+> [!IMPORTANT]
+> Buyers in Canada: you can save on shipping costs if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
 
-> [!IMPORTANT]  
-> Attention buyers from outside the US, especially Canada: Depending on the country, you can save a significant amount of money on shipping if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
+> [!IMPORTANT]
+> Buyers in Canada: you can save on shipping costs if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
 
 ## What does it do?
 This item (previously sold by [SparkFun which they called SuzyQable](https://web.archive.org/web/20231028183709/https://www.sparkfun.com/products/retired/14746)) is for Chromebooks which support [CCD (Closed Case Debugging)](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md). This item lets you communicate with the Google Security Chip inside Chromebooks, and is mainly used for disabling firmware write protect and unbricking.
@@ -18,32 +18,12 @@ This item (previously sold by [SparkFun which they called SuzyQable](https://web
 5. Run `sudo bash`. This will switch to a root shell.
 6. Run `echo "wp false" > /dev/ttyUSB0`
 7. Run `echo "wp false atboot" > /dev/ttyUSB0`
-8. Run `echo "ccd reset factory" > /dev/ttyUSB0` 
+8. Run `echo "ccd reset factory" > /dev/ttyUSB0`
 9. Type `exit` to exit root shell
 10. Run `gsctool -a -I`. All flags should show “Y/Always”
 11. Run `sudo crossystem wpsw_cur`. It should output 0, which means firmware write protect is successfully disabled!
 
-## Versions
-### Cable (56k Version)
-[Link to buy (Out of Stock, will never be available again)](https://www.ebay.com/itm/334996831342)
-
-This cable was made using [this guide](https://web.archive.org/web/20231028184553/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/474419984dd023a4c8a51381991b3a8c7a20772c/docs/ccd.md#SuzyQ-SuzyQable). It uses 22k and 56k resistors. It is a home made cable.
-
-### v4.0.1
-[Link to buy (out of Stock, has been replaced by v4.1.0](https://www.ebay.com/itm/335088802284)
-
-[Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
-
-Uses 22k and 45.3k resistors. Works with USB-A male to USB-C male cables. Does not work with USB-C male to USB-C male cables.
-
-### v4.1.0
-[Link to buy](https://www.ebay.com/itm/316024978790)
-
-[Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
-
-Uses 22k and 45.3k resistors. Works with both USB-A male to USB-C male cables and USB-C male to USB-C male cables. Shield ground is connected between both USB-C components.
-
-## Pricing for buying directly
+## Pricing for buying directly, shipping from the US
 
 | |Buying outside of eBay|Ships from Pleasanton, CA 94566|See https://www.pirateship.com/rates for exact rates| | | | | |
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
@@ -61,6 +41,40 @@ Uses 22k and 45.3k resistors. Works with both USB-A male to USB-C male cables an
 | | | | | | | | | |
 |Cost / cable|$0.84| | | | | | | |
 
-
-## Contact
+### Contact
 Email: paranjperajas@gmail.com
+
+## Buying from the UK Seller (Lyubomir Krastanov)
+Name: Lyubomir Krastanov
+
+Email: lybo.farscape@gmail.com
+
+Whatsapp:	+447759190014
+
+### Total cost estimates
+| | To UK mainland | To the	EU |
+| -- | -- | -- |
+| Tracked & Insured |	£14.00 | £20.00
+| Untracked & Uninsured |	£10.00 | £12.00
+
+
+
+## Versions
+### Cable (56k Version)
+[Original link to buy (Out of Stock, has been replaced by v4.1.0)](https://www.ebay.com/itm/334996831342)
+
+This cable was made using [this guide](https://web.archive.org/web/20231028184553/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/474419984dd023a4c8a51381991b3a8c7a20772c/docs/ccd.md#SuzyQ-SuzyQable). It uses 22k and 56k resistors. It is a home made cable.
+
+### v4.0.1
+[Original link to buy (out of Stock, has been replaced by v4.1.0)](https://www.ebay.com/itm/335088802284)
+
+[Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
+
+Uses 22k and 45.3k resistors. Works with USB-A male to USB-C male cables. Does not work with USB-C male to USB-C male cables.
+
+### v4.1.0
+[Link to buy](https://www.ebay.com/itm/316024978790)
+
+[Made using this guide](https://web.archive.org/web/20231028184033/https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/HEAD/docs/ccd.md#SuzyQ-SuzyQable)
+
+Uses 22k and 45.3k resistors. Works with both USB-A male to USB-C male cables and USB-C male to USB-C male cables. Shield ground is connected between both USB-C components.
