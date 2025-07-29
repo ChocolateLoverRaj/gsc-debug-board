@@ -2,7 +2,7 @@
 Information about my GSC Debug Cables / Boards
 
 > [!IMPORTANT]
-> Buyers in Canada: you can save on shipping costs if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
+> Buyers in Europe: there is now a seller who is located in the UK. You can get cheaper and faster shipping from the UK. See [Buying from the UK Seller](#buying-from-the-uk-seller-lyubomir-krastanov)
 
 > [!IMPORTANT]
 > Buyers in Canada: you can save on shipping costs if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
