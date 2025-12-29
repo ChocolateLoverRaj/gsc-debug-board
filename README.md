@@ -57,7 +57,7 @@ Whatsapp:	+447759190013
 | Tracked & Insured |	£14.00 | £20.00
 | Untracked & Uninsured |	£10.00 | £12.00
 
-Also, there seems to sometimes be customs fees. See https://github.com/ChocolateLoverRaj/gsc-debug-board/issues/4. I am working on how to avoid these customs fees.
+Also, there seems to sometimes be customs fees. See https://github.com/ChocolateLoverRaj/gsc-debug-board/issues/4.
 
 ## Versions
 ### Cable (56k Version)
