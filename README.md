@@ -2,7 +2,7 @@
 Information about my GSC Debug Cables / Boards
 
 > [!IMPORTANT]
-> I am looking for someone to sell this in Canada, UK, and EU. Contact me if you're interested.
+> Buyers in Europe: there is now a seller who is located in the UK. You can get cheaper and faster shipping from the UK. See [Buying from the UK Seller](#buying-from-the-uk-seller-lyubomir-krastanov)
 
 > [!IMPORTANT]
 > Buyers in Canada: you can save on shipping costs if you buy outside of eBay. See the [Pirate Ship Rates](https://www.pirateship.com/simple-export-rate) and [Insurance Rates](https://support.pirateship.com/en/articles/1068431-does-pirate-ship-offer-insurance#h_7256b8b35d) ($1). Contact [my email](mailto:paranjperajas@gmail.com) or [Chrultrabook forum account](https://forum.chrultrabook.com/u/chocolateloverraj/activity) to buy.
@@ -43,6 +43,21 @@ This item (previously sold by [SparkFun which they called SuzyQable](https://web
 
 ### Contact
 Email: paranjperajas@gmail.com
+
+## Buying from the UK Seller (Lyubomir Krastanov)
+Name: Lyubomir Krastanov
+
+Email: lybo.farscape@gmail.com
+
+Whatsapp:	+447759190013
+
+### Total cost estimates
+| | To UK mainland | To the	EU |
+| -- | -- | -- |
+| Tracked & Insured |	£14.00 | £20.00
+| Untracked & Uninsured |	£10.00 | £12.00
+
+Also, there seems to sometimes be customs fees. See https://github.com/ChocolateLoverRaj/gsc-debug-board/issues/4. I am working on how to avoid these customs fees.
 
 ## Versions
 ### Cable (56k Version)
